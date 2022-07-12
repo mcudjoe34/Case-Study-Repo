@@ -36,6 +36,6 @@
 
 ## Recommendations
 
-* As of now I wouldnt have any recommendation to Robinhood. They are leading the industry and are a major player in the investment field.
+* As of now I the only reccomendation would be for Robinhood to continue the expansion into field like crypto and alther alternative financial investment instruments.
 
-* Robinhood should probanbly move into a realm of being a third party for companies who want to invest.
+* Robinhood should probanbly move more into a realm of being a third party for companies who want to invest and use it as a platform. I tihnk they could use the app to integrate themselves into mroe platforms like a way to be used as a payment service in the asme way as bitcoin or paypal.
