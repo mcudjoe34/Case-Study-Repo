@@ -27,7 +27,10 @@
 * Robidhood had emerged as a major partner in the investment field and a prominent partner in the broker field as well.
 
 * Robinhood competitors include webull, etrade, sofi, and emeritrade
+* ![image](https://user-images.githubusercontent.com/108104492/178384400-c5bf8eca-70e1-49bb-89ee-22bf7ded0baa.png)
 
+
+![image](https://user-images.githubusercontent.com/108104492/178384435-c6b1de23-eaf7-4ef0-858a-9c6349a17314.png)
 
 * Robinhoods's biggest impact has been giving access to investment options for more people and for a lower price
 ## Results
