@@ -2,9 +2,9 @@
 
 ## Overview and Origin
 
-* Robinhood
+* Robinhood - https://robinhood.com/
 
-* 2013
+* Robin Hood was started in 2013 as a instrument for investing without the use of a specific broker.
 
 * Vladimir Tenev and Baiju Bhatt
 
@@ -16,6 +16,8 @@
 ## Business Activities:
 
 * Robinhood is trying to make it easier for the average person to make investment deceisions and avoid paying fees.
+![image](https://user-images.githubusercontent.com/108104492/178384290-e6be8da3-71b2-4f21-8f3b-5d3e655259aa.png)
+
 
 
 ## Landscape:
